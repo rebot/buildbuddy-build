@@ -1,0 +1,10 @@
+BuildBuddy Mock Bill
+Reference: BRI-2026-319
+Supplier: Brico Brussel
+Date: 2026-03-04
+
+Items:
+- Betonmix 25kg | 24 zak x 8.10 = 194.40
+- Afstandhouders | 1 pak x 20.00 = 20.00
+
+Total: 214.40 EUR

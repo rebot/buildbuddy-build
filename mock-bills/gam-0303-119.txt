@@ -1,0 +1,10 @@
+BuildBuddy Mock Bill
+Reference: GAM-0303-119
+Supplier: Gamma
+Date: 2026-03-03
+
+Items:
+- Dakshingles antraciet | 7 pak x 34.95 = 244.65
+- Bitumineuze nagels | 3 doos x 15.10 = 45.30
+
+Total: 289.95 EUR

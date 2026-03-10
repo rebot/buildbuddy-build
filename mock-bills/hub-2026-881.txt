@@ -1,0 +1,10 @@
+BuildBuddy Mock Bill
+Reference: HUB-2026-881
+Supplier: Hubo Mechelen
+Date: 2026-03-02
+
+Items:
+- Constructiebalk 45x95 | 16 st x 18.30 = 292.80
+- Houtbescherming | 2 bus x 20.00 = 40.00
+
+Total: 332.80 EUR

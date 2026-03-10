@@ -1,0 +1,11 @@
+BuildBuddy Mock Bill
+Reference: INV-2026-041
+Supplier: Bouwmaat Antwerpen
+Date: 2026-02-24
+
+Items:
+- Snelbouwsteen 29x9x14cm | 450 st x 2.65 = 1192.50
+- Lijmmortel 25kg | 9 zak x 20.75 = 186.75
+- Transportkost | 1 dienst x 103.50 = 103.50
+
+Total: 1482.75 EUR

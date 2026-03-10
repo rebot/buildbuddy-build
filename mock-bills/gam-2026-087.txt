@@ -1,0 +1,10 @@
+BuildBuddy Mock Bill
+Reference: GAM-2026-087
+Supplier: Gamma
+Date: 2026-03-04
+
+Items:
+- Hoekanker verzinkt | 8 st x 4.90 = 39.20
+- Houtschroef 6x120 | 2 doos x 17.50 = 35.00
+
+Total: 74.20 EUR

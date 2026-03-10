@@ -1,0 +1,11 @@
+BuildBuddy Mock Bill
+Reference: HUB-2026-902
+Supplier: Hubo Mechelen
+Date: 2026-03-05
+
+Items:
+- Schroeven TX 5x80 | 4 doos x 12.75 = 51.00
+- Keilbouten M10 | 1 pak x 28.25 = 28.25
+- Nylon pluggen | 1 pak x 17.30 = 17.30
+
+Total: 96.55 EUR

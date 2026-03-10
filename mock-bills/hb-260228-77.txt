@@ -1,0 +1,10 @@
+BuildBuddy Mock Bill
+Reference: HB-260228-77
+Supplier: Hornbach
+Date: 2026-02-28
+
+Items:
+- OSB-3 plaat 244x122x18 | 12 st x 33.50 = 402.00
+- Zaagservice | 1 dienst x 28.00 = 28.00
+
+Total: 430.00 EUR
