@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://buildbuddy.be/buildbuddy-build/sitemap.xml
+Sitemap: https://example.com/buildbuddy-build/sitemap.xml
