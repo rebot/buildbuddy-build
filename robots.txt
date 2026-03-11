@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/buildbuddy-build/sitemap.xml
+Sitemap: https://rebot.github.io/buildbuddy-build/sitemap.xml
